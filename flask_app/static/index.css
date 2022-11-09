@@ -1,0 +1,12 @@
+body{
+    background-image: url('/static/images/wang.jpg');
+    background-attachment:fixed;
+    background-position:center; 
+    background-repeat: repeat;
+    background-size:85rem; 
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    color:aliceblue;
+}

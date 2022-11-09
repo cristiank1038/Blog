@@ -1,0 +1,7 @@
+body{
+    background-image: url('/static/images/sincerely.jpg');
+    background-attachment:fixed;
+    background-position:center; 
+    background-repeat: repeat;
+    background-size:85rem; 
+}
